@@ -6,6 +6,8 @@ tags:   releases licenses
 image:  /assets/headers/icon.png
 
 licensekit: https://getlicensekit.com
+
+redirect_to: https://keyboardkit.com/blog/2022/11/02/keyboardkit-6.5
 ---
 
 KeyboardKit 6.5 is out, with a bunch of changes to the Pro license model. The release also improves the library documentation by introducing namespaces.

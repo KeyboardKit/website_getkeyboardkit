@@ -7,6 +7,8 @@ keyboardkit: https://github.com/danielsaidi/KeyboardKit
 kkswiftui:   https://github.com/danielsaidi/KeyboardKitSwiftUI
 issue:       https://github.com/danielsaidi/KeyboardKit/issues/167
 v270:        https://github.com/danielsaidi/KeyboardKit/releases/tag/2.7.0
+
+redirect_to: https://keyboardkit.com/blog/2021/01/15/removing-uikit-support-in-keyboardkit
 ---
 
 This post will discuss why KeyboardKit will remove UIKit-specific tools from the library in the upcoming 4.0 release. You will still be able to use KeyboardKit with UIKit, but the library itself will not contain UIKit-specific tools, system keyboards, demo apps etc.

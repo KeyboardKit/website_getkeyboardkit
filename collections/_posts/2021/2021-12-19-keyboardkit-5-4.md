@@ -2,6 +2,8 @@
 title:  KeyboardKit 5.4
 date:   2021-12-19 12:00:00 +0100
 tags:   releases
+
+redirect_to: https://keyboardkit.com/blog/2021/12/19/keyboardkit-5-4
 ---
 
 KeyboardKit 5.4 is out 🚀 It adds almost 300 new emojis, removes AnyView usage in many places and makes it possible to run KeyboardKit keyboards in the main app.

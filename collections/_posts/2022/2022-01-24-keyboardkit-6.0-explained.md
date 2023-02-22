@@ -4,6 +4,8 @@ date:   2022-01-24 12:00:00 +0100
 tags:   localization macos
 
 image:  /assets/headers/icon.png
+
+redirect_to: https://keyboardkit.com/blog/2022/01/24/keyboardkit-6.0-explained
 ---
 
 KeyboardKit 6.0 is just around the corner! This post explains what to expect in this major bump.

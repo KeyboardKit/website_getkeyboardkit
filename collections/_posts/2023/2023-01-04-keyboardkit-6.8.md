@@ -7,6 +7,8 @@ image:  /assets/headers/icon.png
 pro:    /pro
 
 release-notes: https://github.com/KeyboardKit/KeyboardKit/releases/tag/6.8.0
+
+redirect_to: https://keyboardkit.com/blog/2023/01/04/keyboardkit-6.8
 ---
 
 KeyboardKit 6.8 is out, with many new locales and a new pro keyboard layout provider setup. This release adds 5 new locales, which brings the number of supported locales to 60!

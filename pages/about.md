@@ -5,6 +5,8 @@ permalink: /about
 hero: about
 
 description: KeyboardKit is a Swift-based library that helps you build custom keyboards for iOS and  macOS, tvOS and watchOS, using SwiftUI or UIKit.
+
+redirect_to: https://keyboardkit.com/about
 ---
 
 KeyboardKit is a Swift-based library that lets you build custom keyboards for iOS, macOS, tvOS and watchOS, using native technologies like SwiftUI and UIKit.

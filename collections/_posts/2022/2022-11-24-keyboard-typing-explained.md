@@ -4,6 +4,8 @@ date:   2022-11-24 06:00:00 +0100
 tags:   gestures
 
 image:  /assets/headers/icon.png
+
+redirect_to: https://keyboardkit.com/blog/2022/11/24/keyboard-typing-explained
 ---
 
 KeyboardKit is getting a new gesture engine, which will make the typing experience a lot closer to the one in the native iOS keyboards. But have you ever considered what is involved in typing on a software keyboard? It's actually a quite complex combination of gestures and features. Let's take a look at some of them.

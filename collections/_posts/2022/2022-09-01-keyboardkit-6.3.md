@@ -4,6 +4,8 @@ date:   2022-09-01 08:00:00 +0100
 tags:   releases autocomplete
 
 image:  /assets/headers/icon.png
+
+redirect_to: https://keyboardkit.com/blog/2022/09/01/keyboardkit-6.3
 ---
 
 KeyboardKit 6.3 is out, with new locales, a bunch of locale-specific input sets, new input sets for QWERTY, QWERTZ and AZERTY, standard numeric and symbolic input sets, new locale and layout utilities and more standard KeyboardKit Pro autocomplete provider improvements.

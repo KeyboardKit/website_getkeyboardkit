@@ -11,6 +11,8 @@ tweet:  https://twitter.com/GetKeyboardKit/status/1596625090761805825
 toot:   https://techhub.social/@keyboardkit/109412367859671569
 
 release-notes: https://github.com/KeyboardKit/KeyboardKit/releases/tag/6.6.0
+
+redirect_to: https://keyboardkit.com/blog/2022/11/26/keyboardkit-6.6
 ---
 
 KeyboardKit 6.6 is out, with a brand new gesture engine, new emoji capabilities and a bunch of adjustments and bug fixes to make the typing experience better than ever before.

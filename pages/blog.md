@@ -2,6 +2,8 @@
 layout: blog
 title: Blog
 permalink: /blog/
+
+redirect_to: https://keyboardkit.com/blog
 ---
 
 <h1>Blog</h1>

@@ -5,6 +5,8 @@ permalink: /pro
 hero: pro
 
 description: KeyboardKit Pro unlocks 60 locales, fully localized system keyboards, emoji skintones, local and remote autocomplete, full document proxy utils etc.
+
+redirect_to: https://keyboardkit.com/pro
 ---
 
 

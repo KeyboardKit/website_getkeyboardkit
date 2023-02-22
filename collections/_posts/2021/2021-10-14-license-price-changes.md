@@ -2,6 +2,8 @@
 title:  License Price Changes
 date:   2021-10-14 12:00:00 +0100
 tags:   licenses
+
+redirect_to: https://keyboardkit.com/blog/2021/10/14/license-price-changes
 ---
 
 After 6 months of KeyboardKit Pro development and new features, the license prices will be adjusted at October 31.
