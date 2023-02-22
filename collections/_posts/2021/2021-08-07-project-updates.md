@@ -2,6 +2,8 @@
 title:  Project Updates
 date:   2021-08-07 18:00:00 +0100
 tags:   open-source app
+
+redirect_to: https://keyboardkit.com/blog/2021/08/07/project-updates
 ---
 
 The KeyboardKit blog is now public, and with that we want post some updates regarding the project.

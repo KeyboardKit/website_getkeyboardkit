@@ -7,6 +7,8 @@ hero: open-source
 description: KeyboardKit is open-source and completely free. It's hosted at GitHub and licensed under the MIT license.
 
 sponsors: https://github.com/sponsors/danielsaidi
+
+redirect_to: https://keyboardkit.com/open-source
 ---
 
 

@@ -6,6 +6,8 @@ tags:   releases proxy
 image:  /assets/headers/icon-pro.png
 
 article: https://keyboardkit.github.io/KeyboardKitPro/documentation/keyboardkitpro/pro-document-proxy-extensions
+
+redirect_to: https://keyboardkit.com/blog/2022/10/05/uitextdocumentproxy-full-context
 ---
 
 KeyboardKit Pro 6.4.2 has been extended with new text document proxy extensions that let you read all text from the proxy.

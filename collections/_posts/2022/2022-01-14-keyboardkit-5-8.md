@@ -4,6 +4,8 @@ date:   2022-01-14 12:00:00 +0100
 tags:   releases localization input-sets callouts
 
 image:  /assets/headers/icon.png
+
+redirect_to: https://keyboardkit.com/blog/2022/01/14/keyboardkit-5-8
 ---
 
 KeyboardKit 5.8 is out! 🚀 It adds support for 9 new locales and renames a bunch of things in preparation for the upcoming 6.0.

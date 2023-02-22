@@ -5,6 +5,8 @@ permalink: /pro-trial
 hero: pro-trial
 
 description: The KeyboardKit Pro trial lets you try all pro features before purchasing.
+
+redirect_to: https://keyboardkit.com/pro-trial
 ---
 
 [KeyboardKit Pro](/pro) requires a commercial license, but you can test all the pro features with the free trial version before deciding to buy.

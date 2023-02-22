@@ -6,6 +6,8 @@ tags:   releases input-sets multi-platform
 image:  /assets/headers/icon.png
 
 release-notes: https://github.com/KeyboardKit/KeyboardKit/releases/tag/6.4.0
+
+redirect_to: https://keyboardkit.com/blog/2022/10/04/keyboardkit-6.4
 ---
 
 KeyboardKit 6.4 is out, and it's a pretty big one! It provides a new locales, makes a bunch of stuff available on more platforms and converts a bunch of extensions to protocols, so that they show up in the documentation and more types can use them.

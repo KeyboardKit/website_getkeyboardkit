@@ -4,6 +4,8 @@ date:   2022-02-23 08:00:00 +0100
 tags:   releases multi-platform macos tvos watchos
 
 image:  /assets/headers/icon.png
+
+redirect_to: https://keyboardkit.com/blog/2022/02/23/keyboardkit-6.0
 ---
 
 KeyboardKit 6.0 is out, with features such as multi-platform support and new features, adjustments and bug ixes! 🚀 This post describes what it contains and how to best migrate from 5.x.

@@ -7,6 +7,8 @@ image:  /assets/headers/icon.png
 pro:    /pro
 
 release-notes: https://github.com/KeyboardKit/KeyboardKit/releases/tag/6.7.0
+
+redirect_to: https://keyboardkit.com/blog/2022/12/12/keyboardkit-6.7
 ---
 
 KeyboardKit 6.7 is out, with a bunch of new emoji capabilities as well as various adjustments.

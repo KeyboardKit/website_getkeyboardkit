@@ -4,6 +4,8 @@ date:   2022-01-03 12:00:00 +0100
 tags:   releases rtl localization
 
 image:  /assets/headers/icon.png
+
+redirect_to: https://keyboardkit.com/blog/2022/01/03/keyboardkit-5-5
 ---
 
 KeyboardKit 5.5 is out! 🚀 It adds overall RTL support and support for 🇦🇪 Arabic, 🇹🇯 Kurdish Sorani and 🇮🇷 Persian.

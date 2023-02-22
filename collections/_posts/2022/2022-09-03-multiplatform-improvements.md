@@ -4,6 +4,8 @@ date:   2022-09-02 08:00:00 +0100
 tags:   multi-platform
 
 image:  /assets/headers/icon.png
+
+redirect_to: https://keyboardkit.com/blog/2022/09/02/multiplatform-improvements
 ---
 
 KeyboardKit 6.4 will unlock a bunch of types, extensions, mocks and tests for all platforms, which will give you more tools if you develop for macOS or watchOS.

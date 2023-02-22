@@ -2,6 +2,8 @@
 title:  KeyboardKit v5
 date:   2021-09-28 18:00:00 +0100
 tags:   uikit swiftui
+
+redirect_to: https://keyboardkit.com/blog/2021/09/28/keyboardkit-v5
 ---
 
 Work on KeyboardKit v5 has begun. This post explains what to expect in this new major release.

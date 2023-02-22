@@ -5,6 +5,8 @@ permalink: /locales
 hero: locales
 
 description: KeyboardKit supports 60 locales and lets you create keyboards with localized input keys, callouts, autocomplete etc.
+
+redirect_to: https://keyboardkit.com/locales
 ---
 
 KeyboardKit comes with support for <b>{% include locales/count.html %}</b> keyboard locales, with more being added over time:

@@ -7,6 +7,8 @@ image:  /assets/headers/icon.png
 pro:    /pro
 
 release-notes: https://github.com/KeyboardKit/KeyboardKit/releases/tag/6.9.0
+
+redirect_to: https://keyboardkit.com/blog/2023/01/10/keyboardkit-6.9
 ---
 
 KeyboardKit 6.9 is out, with many new features, as well as changes and deprecations that will help you prepare for and transition to KeyboardKit 7.0, which will be a big step forward for the library.
